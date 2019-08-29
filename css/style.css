@@ -91,6 +91,10 @@ body{
 #compras img{
     width: 150px;
     padding: 30px;
+    margin: 0 auto;
+}
+.botones{
+    margin:0 auto;
 }
 /*------- ESTILOS FOOTER ----*/
 #footer{
